@@ -7,13 +7,17 @@ git init
 # 스테이징에 추가
 git add .
 git add -A
-
-# 
+ 
 ```
 
 ```bash
 # commit
 git commit -m "commit message
 
+```
+
+```bash
+# push command
+git push origin main
 
 ```
