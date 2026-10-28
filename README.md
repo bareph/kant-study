@@ -10,3 +10,10 @@ git add -A
 
 # 
 ```
+
+```bash
+# commit
+git commit -m "commit message
+
+
+```
